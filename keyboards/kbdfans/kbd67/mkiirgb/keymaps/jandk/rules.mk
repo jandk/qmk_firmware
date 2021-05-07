@@ -1,0 +1,4 @@
+MOUSEKEY_ENABLE   = no
+RGB_MATRIX_ENABLE = no
+
+DEBOUNCE_TYPE     = sym_eager_pk
